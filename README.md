@@ -1,3 +1,2 @@
-    Placeholder README
-    Describe project when complete
-    Describe skills used in project
+Created a recipe website
+I learned the basics of HTML
